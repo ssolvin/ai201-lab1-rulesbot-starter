@@ -45,7 +45,7 @@ Results should be ordered from most to least relevant (lowest to highest distanc
 *Describe how you will use `_collection.query()` to find relevant chunks. What arguments will you pass, and why?*
 
 ```
-[your answer here]
+_collection.query() takes 
 ```
 
 ---
